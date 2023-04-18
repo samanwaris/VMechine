@@ -1,0 +1,6 @@
+D:\Explore\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\Explore\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\Explore\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\Explore\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+D:\Explore\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\Explore\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
